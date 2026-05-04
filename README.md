@@ -63,6 +63,7 @@ ROC curves
 | Tuned Random Forest | ~0.84 | ~0.82 | ~0.80 | ~0.81 |
 
 📸 Visuals
+
 Model Accuracy Comparison
 ![alt text](image-1.png)
 
