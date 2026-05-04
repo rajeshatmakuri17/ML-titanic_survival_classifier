@@ -61,3 +61,19 @@ ROC curves
 | Decision Tree | ~0.74 | ~0.70 | ~0.68 | ~0.69 |
 | Random Forest | ~0.82 | ~0.80 | ~0.78 | ~0.79 |
 | Tuned Random Forest | ~0.84 | ~0.82 | ~0.80 | ~0.81 |
+
+📸 Visuals
+Model Accuracy Comparison
+![alt text](image-1.png)
+
+Random Forest Feature Importance
+![alt text](image-2.png)
+
+Confusion Matrix Heatmap
+![alt text](image-3.png)
+
+ROC Curve Comparison
+![alt text](image-4.png)
+
+Tuned Randam Forest Feature Importance
+![alt text](image-5.png)
