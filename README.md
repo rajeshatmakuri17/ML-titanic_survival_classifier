@@ -2,6 +2,27 @@ Titanic Survival Classifier 🚢
 📌 Overview
 This project predicts passenger survival on the Titanic using machine learning. It is based on the Kaggle Titanic dataset. The goal is to demonstrate an end‑to‑end ML workflow: preprocessing, feature engineering, model training, evaluation, visualization, and hyperparameter tuning.
 
+⚙️ Setup / How to Run
+
+```bash
+git clone https://github.com/rajeshatmakuri17/ML-titanic_survival_classifier.git
+cd ML-titanic_survival_classifier
+python -m venv venv
+source venv/bin/activate
+```
+
+On Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+Then open and run `titanic.ipynb` in Jupyter Notebook or VS Code. The dataset files (`train.csv`, `test.csv`) are included in the repo.
+
 📂 Workflow
 ## Data Preprocessing
 
@@ -76,5 +97,5 @@ Confusion Matrix Heatmap
 ROC Curve Comparison
 ![alt text](image-4.png)
 
-Tuned Randam Forest Feature Importance
+Tuned Random Forest Feature Importance
 ![alt text](image-5.png)
